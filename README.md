@@ -1,4 +1,4 @@
-# Desktop-Only-Project.
+# Desktop-Only-Project. (my first project)
 This website is built and optimized for (( Desktop )) .
 It is ** not fully responsive yet **.
 # FC Bayern official fan site
